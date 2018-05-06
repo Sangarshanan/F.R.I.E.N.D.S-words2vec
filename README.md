@@ -5,5 +5,4 @@ Still not exactly accurate as it includes only the first two episodes but the re
 
 Inspirated from siraj raval word2vec live tutorial : https://www.youtube.com/watch?v=pY9EwZ02sXU&t=1784s
 
-**To be done**: Include the rest of the episodes and analyze individual seasons to measure character development 
 
